@@ -5,6 +5,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green)](https://opensource.org/license/mit)
 [![Github](https://img.shields.io/badge/GitHub-Account-181717.svg?style=flat&logo=github)](https://github.com/ayuhik)
 ### This program is designed to build your own versions of "Winlocker" viruses.
+![ScreenShot](https://github.com/AYUHIK264/WinLocker-Builder/blob/main/source/images/player_screenshot.png)
 ## ✨All program features:
 - ***Header selection***
 - ***Subtext selection***
