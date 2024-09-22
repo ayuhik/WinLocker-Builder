@@ -1,5 +1,7 @@
 <h1>WinLocker-Builder<h1>
   
+![Logo](https://github.com/ayuhik/WinLocker-Builder/blob/main/files/icons/LogoTitle.png)
+  
 [![Python](https://img.shields.io/badge/Python-3.12.5-3776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 ![Issues](https://img.shields.io/badge/Issues-0_open-green)
 [![License](https://img.shields.io/badge/License-MIT-green)](https://opensource.org/license/mit)
